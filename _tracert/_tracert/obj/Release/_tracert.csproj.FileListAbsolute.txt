@@ -1,0 +1,6 @@
+c:\users\андрей\documents\visual studio 2015\Projects\_tracert\_tracert\bin\Release\_tracert.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\_tracert\_tracert\bin\Release\_tracert.exe
+c:\users\андрей\documents\visual studio 2015\Projects\_tracert\_tracert\bin\Release\_tracert.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\_tracert\_tracert\obj\Release\_tracert.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\_tracert\_tracert\obj\Release\_tracert.exe
+c:\users\андрей\documents\visual studio 2015\Projects\_tracert\_tracert\obj\Release\_tracert.pdb

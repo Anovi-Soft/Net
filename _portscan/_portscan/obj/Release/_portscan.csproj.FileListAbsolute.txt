@@ -1,0 +1,7 @@
+C:\Users\Андрей\documents\visual studio 2015\Projects\_portscan\_portscan\bin\Release\_portscan.exe.config
+C:\Users\Андрей\documents\visual studio 2015\Projects\_portscan\_portscan\bin\Release\_portscan.exe
+C:\Users\Андрей\documents\visual studio 2015\Projects\_portscan\_portscan\bin\Release\_portscan.pdb
+C:\Users\Андрей\documents\visual studio 2015\Projects\_portscan\_portscan\obj\Release\_portscan.exe
+C:\Users\Андрей\documents\visual studio 2015\Projects\_portscan\_portscan\obj\Release\_portscan.pdb
+C:\work\_portscan\_portscan\bin\Release\_portscan.exe.config
+C:\work\_portscan\_portscan\obj\Release\_portscan.pdb

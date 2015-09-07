@@ -1,0 +1,9 @@
+﻿<Window x:Name="PFWindow" x:Class="WPF_Net_Vk_Api.PopularFriendsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PopularFriendsWindow" Height="587" Width="890" Closed="Window_Closed" SizeChanged="Window_SizeChanged" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="536" Margin="10,10,0,0" VerticalAlignment="Top" Width="860" Initialized="listBox_Initialized"/>
+
+    </Grid>
+</Window>

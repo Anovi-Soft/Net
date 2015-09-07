@@ -1,0 +1,6 @@
+c:\users\андрей\documents\visual studio 2015\Projects\_portscan\_portscan\bin\Debug\_portscan.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\_portscan\_portscan\bin\Debug\_portscan.exe
+c:\users\андрей\documents\visual studio 2015\Projects\_portscan\_portscan\bin\Debug\_portscan.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\_portscan\_portscan\obj\Debug\_portscan.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\_portscan\_portscan\obj\Debug\_portscan.exe
+c:\users\андрей\documents\visual studio 2015\Projects\_portscan\_portscan\obj\Debug\_portscan.pdb

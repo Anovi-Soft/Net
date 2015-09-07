@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPF_Net_Vk_Api.OAuth"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OAuth" Height="462" Width="654" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <WebBrowser x:Name="webBrowser" HorizontalAlignment="Left" Height="433" VerticalAlignment="Top" Width="646" LoadCompleted="WebBrowser_LoadCompleted" Margin="2,0,0,0"/>
+
+    </Grid>
+</Window>
